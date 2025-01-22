@@ -1,1 +1,5 @@
 # Deep-Learning-with-Pytorch
+
+## This Repo contains Exercises and Projects of Deep Learning using PyTorch.
+### Week_1_Solution.ipynb: 
+###### This exercise focuses on foundational concepts in PyTorch, including tensor operations, GPU utilization, and reproducibility. It begins with exploring the documentation for `torch.Tensor` and `torch.cuda` to build familiarity with PyTorch's core functionalities. Tasks include creating random tensors of various shapes, performing matrix multiplications, and ensuring reproducibility by setting manual seeds using `torch.manual_seed()`. GPU capabilities are verified, and a GPU random seed is set with `torch.cuda.manual_seed(1234)`. Tensor operations are executed on the GPU, including creating tensors, performing matrix multiplications, and manipulating tensor shapes using `squeeze()`. The exercise also involves identifying maximum and minimum values, along with their indices, in tensors.
